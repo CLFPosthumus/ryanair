@@ -13,8 +13,7 @@ pip install ryanair
 
 ### Example
 
-What things you need to install the software and how to install them
-
+After installing the ryanair pip package, you can proceed as stated below:
 ```
 from ryanair import Ryanair,departuredates, returndates
 
@@ -32,6 +31,7 @@ Find round flights, based on the previous output
 ```
 roundflights = ryanair.roundflights(departureflight,returnflights,outputfile = 'Round.xlsx')
 ```
+
 ##Contributing
 Feel free to contribute to the project, in case of any questions please contact Crealcode@gmail.com
 
