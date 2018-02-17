@@ -10,6 +10,9 @@ Install using pip:
 
 pip install ryanair
 
+## Prerequisite 
+Config.yml is required in the root directory of the script. A sample is included in the example folder.
+
 
 ### Example
 
@@ -31,8 +34,8 @@ Find round flights, based on the previous output
 ```
 roundflights = ryanair.roundflights(departureflight,returnflights,outputfile = 'Round.xlsx')
 ```
+## Contributing
 
-##Contributing
 Feel free to contribute to the project, in case of any questions please contact Crealcode@gmail.com
 
 ## Acknowledgments

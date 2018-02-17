@@ -13,4 +13,4 @@ returnflights = ryanair.flights(returndates,outputfile='Return.xlsx',returnfligh
 roundflights = ryanair.roundflights(departureflight,returnflights,outputfile = 'Round.xlsx')
 
 
-print('Done')
+print('Sample script has finished')
