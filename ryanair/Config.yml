@@ -1,0 +1,11 @@
+airports:
+     arrivalairports : ['BRU','CRL','DUS','LRC','AMS','EIN','MST']
+     departureairports : ['GRO']
+
+
+dates:
+     fromdate: 2018-04-17
+     todate: 2018-04-25
+     duration : [2,3,4,5]
+     weekdaydeparture : [4,3]
+     weekdayreturn : [6]
