@@ -32,7 +32,7 @@ returnflights = ryanair.flights(returndates,outputfile='Return.xlsx',returnfligh
 ```
 Find round flights, based on the previous output
 ```
-roundflights = ryanair.roundflights(departureflight,returnflights,outputfile = 'Round.xlsx')
+roundflights = ryanair.roundflights(departureflights,returnflights,outputfile = 'Round.xlsx')
 ```
 ## Contributing
 
