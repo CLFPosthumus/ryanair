@@ -1,6 +1,6 @@
 # Ryanair Round Flights
 
-Lightweight code to search for (round) flights, using: multiple arrival/departure airports, date range and day of week as input.
+Search for (round) flights, using: multiple arrival/departure airports, date range and day of week as input.
 
 _I am in no way affiliated with Ryanair, use of this code for commercial purposes could be prohibited._ 
 
